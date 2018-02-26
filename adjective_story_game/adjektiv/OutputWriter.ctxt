@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OutputWriter
+comment0.text=\r\n\ Class\ for\ writing\ information\ to\ a\ file.\r\n\ \r\n\ @author\ (Per\ Lauv\u00E5s\ &\ Tor-Morten\ Gr\u00F8nli)\ \r\n\ @version\ (2.0)\r\n
+comment1.params=
+comment1.target=OutputWriter()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ OutputWriter\r\n
+comment2.params=output\ filename
+comment2.target=void\ write(java.util.ArrayList,\ java.lang.String)
+comment2.text=\r\n\ Writes\ a\ list\ of\ words\ to\ a\ file.\ The\ words\ are\ separated\ by\ the\ 'space'\ character.\r\n\ \r\n\ @param\ \ output\ \ \ the\ list\ of\ words\r\n\ @param\ \ filename\ \ \ the\ name\ of\ the\ output\ file\r\n
+numComments=3

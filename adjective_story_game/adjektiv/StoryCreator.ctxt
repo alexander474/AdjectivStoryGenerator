@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=StoryCreator
+comment0.text=\r\n\ Makes\ an\ adjectiv\ story\r\n\ Takes\ a\ story\ and\ changes\ the\ word\ "ADJEKTIV"\ with\ wither\ a\ input\ word\ or\r\n\ a\ random\ word\ from\ a\ list\r\n
+comment1.params=
+comment1.target=StoryCreator()
+comment2.params=storyFilename\ adjectivesFilename\ outputFilename
+comment2.target=void\ createAdjectiveStory(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Creates\ a\ story\ and\ changes\ the\ word\ "ADJEKTIV"\ with\ a\ random\ adjective\r\n
+comment3.params=storyFilename\ outputFilename
+comment3.target=void\ createAdjectiveStory(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Creates\ a\ story\ and\ changes\ the\ word\ "ADJEKTIV"\ with\ a\ input\ word\ from\ scanner\r\n
+comment4.params=storyFilename\ dictionaryFilename\ outputFilename
+comment4.target=void\ createAdjectiveStoryFromDictionary(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Creates\ a\ list\ with\ adjectives\ from\ a\ full\ wordlists\ and\ changes\r\n\ the\ word\ "ADJEKTIV"\ with\ a\ random\ adjective\ from\ the\ new\ made\ \r\n\ list\ with\ adjectives.\r\n
+comment5.params=story\ adjective\ outputFilename
+comment5.target=void\ createStoryFromLists(java.util.ArrayList,\ java.util.ArrayList,\ java.lang.String)
+comment5.text=\r\n\ Changes\ the\ word\ from\ a\ txt\ with\ a\ new\ word\ from\ another\ txt\r\n\ Changes\ the\ word\ "ADJEKTIV"\ with\ an\ random\ word\ from\ a\ list.\r\n
+numComments=6
